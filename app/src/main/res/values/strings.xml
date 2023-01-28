@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GroupProject</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_nearby_hospital">NearbyHospital</string>
+    <string name="app_name1">Hyperlink TextView</string>
+    <string name="hyperlink">Github Link :\n <a href="https://www.youtube.com/">GithubLinkGroup5.com</a></string>
+</resources>
+
